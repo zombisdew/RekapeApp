@@ -16,5 +16,9 @@
             "auto_update": true
         }
 
+    },
+    "Links":{
+        "wrgdownload":"",
+        "wrgbetadownload":""
     }
 }
